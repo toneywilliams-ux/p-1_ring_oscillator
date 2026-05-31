@@ -189,7 +189,7 @@ Rounded waveforms with slower rise/fall times. Peaks no longer reach full 1.8V d
 
 ## Report
 
-Full documentation available in [`ring_oscillator.pdf`](p-1_ring_oscillator/ring_oscillator.pdf)
+Full documentation available in [`ring_oscillator.pdf`](ring_oscillator.pdf)
 
 ---
 
